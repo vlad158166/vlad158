@@ -1,3 +1,6 @@
+TEST
+
+
 # Auction Backend
 
 Django REST Framework backend mapped onto the original PostgreSQL `auction` database. The ORM now reflects the real existing tables instead of the earlier lab placeholder models.
